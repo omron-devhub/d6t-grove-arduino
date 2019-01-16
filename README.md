@@ -18,8 +18,8 @@ see examples/sample.ino
 
 ## Contributors
 [@akita11](https://github.com/akita11) has contributed as the basis of this project.  
-and mora [contributors](https://github.com/omron-devhub/d6t-grove-arduino/graphs/contributors) .  
 
+and more [contributors](https://github.com/omron-devhub/d6t-grove-arduino/graphs/contributors) .  
 Thank you to all our contributors!
 
 ## Licence

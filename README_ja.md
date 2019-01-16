@@ -18,8 +18,8 @@ examples / sample.inoを参照してください。
 
 ## Contributors
 まず、このプロジェクトのベースは [@akita11](https://github.com/akita11) にご協力いただきました。  
-そしてリポジトリ公開後にContributeしていただいた方は[こちら](https://github.com/omron-devhub/d6t-grove-arduino/graphs/contributors)です。
 
+そしてリポジトリ公開後にContributeしていただいた方は[こちら](https://github.com/omron-devhub/d6t-grove-arduino/graphs/contributors)です。  
 私たちはすべてのContributorに感謝します！
 
 ## ライセンス
