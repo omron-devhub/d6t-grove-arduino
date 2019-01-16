@@ -16,6 +16,12 @@ D6T は対象物からの放射熱エネルギーをサーモパイル素子で�
 ## 使い方
 examples / sample.inoを参照してください。
 
+## Contributors
+まず、このプロジェクトのベースは [@akita11](https://github.com/akita11) にご協力いただきました。  
+そしてリポジトリ公開後にContributeしていただいた方は[こちら](https://github.com/omron-devhub/d6t-grove-arduino/graphs/contributors)です。
+
+私たちはすべてのContributorに感謝します！
+
 ## ライセンス
 このリポジトリに含まれる WireExt.cpp および WireExt.h は、GPLライセンスの下でライセンスされています。  
 

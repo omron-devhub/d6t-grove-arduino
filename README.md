@@ -16,6 +16,12 @@ Installation this library on Arduino IDE.
 ## How to use
 see examples/sample.ino
 
+## Contributors
+[@akita11](https://github.com/akita11) has contributed as the basis of this project.  
+and mora [contributors](https://github.com/omron-devhub/d6t-grove-arduino/graphs/contributors) .  
+
+Thank you to all our contributors!
+
 ## Licence
 WireExt.cpp and WireExt.h included in this repository are licensed under the GPL license.
 
